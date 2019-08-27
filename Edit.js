@@ -1,5 +1,4 @@
 import React, { Component } from "react";
-
 class EditAction extends Component {
   render() {
     return (
